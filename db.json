@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 9",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 7 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
       "id": 3,
-      "message": "Changed memory on workstation 9",
+      "message": "Testing 2",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Brent"
+      "tech": "Jane Doe",
+      "date": "2019-12-22T01:18:57.516Z"
     }
   ],
   "techs": [
@@ -34,14 +20,19 @@
       "lastName": "Doe"
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Brent"
-    },
-    {
       "firstName": "Sagar",
       "lastName": "Desai",
       "id": 4
+    },
+    {
+      "firstName": "Nishy",
+      "lastName": "Manohar",
+      "id": 5
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Smith",
+      "id": 6
     }
   ]
 }
